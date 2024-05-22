@@ -1,0 +1,100 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+nav a{
+  color: white;  /*Change text color */
+  text-decoration: none;/*Remove underline  */
+  background-color: blue;  /*Add Background color for button*/
+  padding: 8px;/*Add spacing around the text of the button  */
+  border: 2px solid black;  /*Add outline*/
+  border-radius: 5px; /*Rounds the outline */
+
+}
+
+nav a{
+  color: white;  /*Change text color */
+  text-decoration: none;/*Remove underline  */
+  background-color: blue;  /*Add Background color for button*/
+  padding: 8px;/*Add spacing around the text of the button  */
+  border: 2px solid black;  /*Add outline*/
+  border-radius: 5px; /*Rounds the outline */
+
+}
+
+nav a:link{
+  color: white;  /*Change text color */
+  text-decoration: none;/*Remove underline  */
+  background-color: blue;  /*Add Background color for button*/
+  padding: 8px;/*Add spacing around the text of the button  */
+  border: 2px solid black;  /*Add outline*/
+  border-radius: 5px; /*Rounds the outline */
+
+}
+
+nav a:visited{
+  color: white;  /*Change text color */
+  text-decoration: none;/*Remove underline  */
+  background-color: blue;  /*Add Background color for button*/
+  padding: 8px;/*Add spacing around the text of the button  */
+  border: 2px solid black;  /*Add outline*/
+  border-radius: 5px; /*Rounds the outline */
+
+}
+
+nav a:hover{
+  color: blue;  /*Change text color */
+  text-decoration: none;/*Remove underline  */
+  background-color: white;  /*Add Background color for button*/
+  padding: 8px;/*Add spacing around the text of the button  */
+  border: 2px solid black;  /*Add outline*/
+  border-radius: 5px; /*Rounds the outline */
+
+}
+
+nav a:active{
+  color: white;  /*Change text color */
+  text-decoration: none;/*Remove underline  */
+  background-color: blue;  /*Add Background color for button*/
+  padding: 8px;/*Add spacing around the text of the button  */
+  border: 2px solid black;  /*Add outline*/
+  border-radius: 5px; /*Rounds the outline */
+
+}
+
+
+
+
+
+
+
+
+body{
+  background-image: url("space_bg.jpg");
+  background-size: cover;
+  background-repeat: repeat-y;
+  color:white;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+main{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+main p{
+  text-align: justify;
+
+}
+h1:first-letter{
+  font-size: 2em;
+}
